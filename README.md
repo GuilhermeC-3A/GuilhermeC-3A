@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Meu nome é Guilherme Carvalho
+Meu nome é **Guilherme Carvalho**
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
